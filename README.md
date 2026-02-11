@@ -1,3 +1,4 @@
+El proyecto se basa en el siguiente enunciado:
 
 Actualmente, estamos ante la presencia de una variedad de fenómenos que están afectando el medio ambiente y que se reflejan en el calentamiento global, la **contaminación del aire** y la pérdida de biodiversidad, entre otros. Establecer políticas que ataquen sus causas y el desarrollo de planes de **gestión de riesgos que mitiguen sus efectos** y permitan accionar oportunamente es uno de los grandes retos a los que nos enfrentamos como sociedad.
 
