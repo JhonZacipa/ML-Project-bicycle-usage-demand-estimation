@@ -62,3 +62,10 @@ Una vez construido los modelos, debes responder estas preguntas:
 **F. Entregable**.
 
 Notebook (*.ipynb y *.html) por la plataforma. El Notebook debe estar documentado con las justificaciones de las decisiones tomadas en cada paso del ciclo de ML (que evidencia las actividades planteadas en la Sección C) y las respuestas a las preguntas planteadas en el apartado E. Además, deben ser visibles las ejecuciones de cada celda. Esta entrega debe realizarse en la cuarta semana, en donde encontrarás un espacio para adjuntar los dos archivos.
+
+
+
+Puedes ver recursos que he desarrollado a lo largo del proyecto para visualizar mucho mejor ciertos puntos.
+- Mapa de calor matriz de correlación descriptiva en React: [https://nkcx6c.csb.app/]
+
+  
